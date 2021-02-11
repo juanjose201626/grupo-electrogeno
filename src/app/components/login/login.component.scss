@@ -1,0 +1,14 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-full{
+    height: 100vh;
+    min-height: 600px;
+}
+
+.flex-shrink-0{
+    flex-shrink: 0;
+}

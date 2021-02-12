@@ -62,12 +62,5 @@
   "engines": {
     "node": "12.18.2",
     "npm": "6.14.5"
-  },
-  "budgets": [
-    {
-       "type": "initial",
-       "maximumWarning": "6mb",
-       "maximumError": "6mb"
-    }
- ]
+  }
 }

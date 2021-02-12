@@ -133,6 +133,10 @@
               "devServerTarget": "grupo-electrogeno:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

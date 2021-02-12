@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "grupo-electrogeno": {
+      "hosting": {
+        "grupo-electrogeno": [
+          "grupo-electrogeno"
+        ]
+      }
+    }
+  }
+}
